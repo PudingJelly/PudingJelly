@@ -1,4 +1,30 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Puding%20Jelly&fontSize=90)
+
+## 깃에 익숙해지기 위해 연습중 입니다~! 👋
+
+### README.md 참고사이트 👍
+
+1. [마크다운연습](https://dillinger.io/)
+2. [캡슐랜더](https://github.com/kyechan99/capsule-render)
+3. [shields.io](https://shields.io/)
+4. [Simple Icons](https://simpleicons.org/)
+
+<!-- <img src="https://cdn.pixabay.com/photo/2015/04/01/20/36/pudding-702960__340.jpg" alt="pic" /> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **PudingJelly/PudingJelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
