@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Puding%20Jelly&fontSize=90)
 
-## 깃에 익숙해지기 위해 연습중 입니다~! 👋
+## 한국ICT인재개발원 29기 문창주👋
+### 빅데이터기반 자바 풀스택 과정 
 
 ### README.md 참고사이트 👍
 
