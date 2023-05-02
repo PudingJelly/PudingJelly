@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Puding%20Jelly&fontSize=90&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Puding%20Jelly&fontSize=90&fontColor=eeeeee)
 
 ## 한국ICT인재개발원 29기 문창주👋
 ### 빅데이터기반 자바 풀스택 과정 
