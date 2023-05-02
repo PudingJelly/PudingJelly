@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/-HTML-informational"/> <img src="https://img.shields.io/badge/-CSS-blueviolet"/>
 <img src="https://img.shields.io/badge/-OracleDB-inactive"/>
 
-### README.md 참고사이트 👍
+### 참고사이트 👍
 
 1. [마크다운연습](https://dillinger.io/)
 2. [캡슐랜더](https://github.com/kyechan99/capsule-render)
