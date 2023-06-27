@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/-Java-critical"/> <img src="https://img.shields.io/badge/-JavaScript-success"/> <img src="https://img.shields.io/badge/-JSP-yellow"/> 
 
-<img src="https://img.shields.io/badge/-OracleDB-inactive"/> <img src="https://img.shields.io/badge/-MySQL-informational"/>
+<img src="https://img.shields.io/badge/-OracleDB-inactive"/> <img src="https://img.shields.io/badge/-MySQL-primary"/>
 
 ### 참고사이트 👍
 
