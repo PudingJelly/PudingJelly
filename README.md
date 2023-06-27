@@ -2,7 +2,8 @@
 
 ## 한국ICT인재개발원 29기 문창주👋
 ### 빅데이터기반 자바 풀스택 과정 🕹
-<img src="https://img.shields.io/badge/-HTML-informational"/> <img src="https://img.shields.io/badge/-CSS-blueviolet"/>
+<img src="https://img.shields.io/badge/-HTML-informational"/> <img src="https://img.shields.io/badge/-CSS-blueviolet"/> <img
+src="https://img.shields.io/badge/React-8A2BE2"/>
 
 <img src="https://img.shields.io/badge/-Java-critical"/> <img src="https://img.shields.io/badge/-JavaScript-success"/> <img src="https://img.shields.io/badge/-JSP-yellow"/> 
 
