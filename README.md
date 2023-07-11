@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Puding%20Jelly&fontSize=90&fontColor=eeeeee)
+<img src="https://github-readme-stats.vercel.app/api?username=jjiiwon0101&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PudingJelly&layout=compact" width="43%">
 
 ## 한국ICT인재개발원 29기 문창주👋
 ### 빅데이터기반 자바 풀스택 과정 🕹
