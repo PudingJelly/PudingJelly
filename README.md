@@ -8,11 +8,11 @@
 
 <img src="https://img.shields.io/badge/Java-critical?logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/-JSP-yellow"/> 
 
-<img src="https://img.shields.io/badge/-Python-3776AB"/> <img src="https://img.shields.io/badge/-Flask-000000"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/-Flutter-02569B"/> <img src="https://img.shields.io/badge/-Dart-0175C2"/> <img src="https://img.shields.io/badge/React-61DAFB"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/-OracleDB-inactive"/> <img src="https://img.shields.io/badge/-MySQL-4479A1"/>
+<img src="https://img.shields.io/badge/OracleDB-inactive"/> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/>
 
 ### 참고사이트 👍
 
