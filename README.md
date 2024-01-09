@@ -4,12 +4,14 @@
 
 ## 한국ICT인재개발원 29기 문창주👋
 ### 빅데이터기반 자바 풀스택 과정 🕹
-<img src="https://img.shields.io/badge/-HTML-informational"/> <img src="https://img.shields.io/badge/-CSS-blueviolet"/> <img
-src="https://img.shields.io/badge/React-green"/>
+<img src="https://img.shields.io/badge/-HTML-#E34F26"/> <img src="https://img.shields.io/badge/-CSS-#1572B6"/> <img
+src="https://img.shields.io/badge/React-#61DAFB"/>
 
-<img src="https://img.shields.io/badge/-Java-critical"/> <img src="https://img.shields.io/badge/-JavaScript-success"/> <img src="https://img.shields.io/badge/-JSP-yellow"/> 
+<img src="https://img.shields.io/badge/-Java-critical"/> <img src="https://img.shields.io/badge/-JavaScript-#F7DF1E"/> <img src="https://img.shields.io/badge/-JSP-yellow"/> 
 
-<img src="https://img.shields.io/badge/-OracleDB-inactive"/> <img src="https://img.shields.io/badge/-MySQL-informational"/>
+<img src="https://img.shields.io/badge/-Python-#3776AB"/> <img src="https://img.shields.io/badge/-Flutter-#02569B"/> <img src="https://img.shields.io/badge/-Dart-#0175C2"/>
+
+<img src="https://img.shields.io/badge/-OracleDB-inactive"/> <img src="https://img.shields.io/badge/-MySQL-#4479A1"/>
 
 ### 참고사이트 👍
 
