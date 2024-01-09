@@ -6,7 +6,7 @@
 ### 빅데이터기반 자바 풀스택 과정 🕹
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/-Java-critical"/>  <img src="https://img.shields.io/badge/-JSP-yellow"/> 
+<img src="https://img.shields.io/badge/Java-critical?logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/-JSP-yellow"/> 
 
 <img src="https://img.shields.io/badge/-Python-3776AB"/> <img src="https://img.shields.io/badge/-Flask-000000"/> 
 
